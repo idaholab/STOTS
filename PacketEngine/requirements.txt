@@ -1,0 +1,17 @@
+antlr4-python3-runtime==4.7
+certifi==2019.9.11
+chardet==3.0.4
+Click==7.0
+idna==2.8
+lxml==4.4.1
+py==1.8.0
+pyshark==0.4.2.9
+python-dateutil==2.8.0
+pytz==2019.2
+requests==2.22.0
+simplejson==3.16.0
+six==1.12.0
+stix2==1.1.3
+-e git+https://github.com/oasis-open/cti-pattern-matcher.git@736453b1a32a2a1ba351bace33e6a4b1c409f2e1#egg=stix2_matcher
+-e git+https://github.com/oasis-open/cti-pattern-validator.git@5e0ff542c700c117baf1e8b1a9da934c263a034f#egg=stix2_patterns
+urllib3==1.25.3

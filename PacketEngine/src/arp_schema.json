@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "patternProperties": {
+    "^x-arp-ext$": {
+      "type": "object",
+      "description": "Represents an ARP packet",
+      "properties": {
+        "src_hw_mac": {"type":"mac-addr"},
+        "dst_hw_mac": {"type":"mac-addr"},
+        "src_proto_ipv4": {"type":"ipv4-addr"},
+        "dst_proto_ipv4": {"type":"ipv4-addr"},
+        "hw_size": {"type":"integer"},
+        "hw_type": {"type":"integer"},
+        "level": {"type":"integer"},
+        "opcode": {"type":"string"},
+        "proto_size": {"type":"integer"},
+        "proto_type": {"type":"integer"},
+        "isgratuitous": {"type":"boolean"}
+      }
+    }
+  }
+}

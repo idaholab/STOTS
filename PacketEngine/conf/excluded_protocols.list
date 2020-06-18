@@ -1,0 +1,17 @@
+_ws.expert
+_ws.lua
+_ws.malformed
+_ws.number_string.decoding_error
+_ws.short
+_ws.type_length
+_ws.unreassembled
+data
+data-l1-events
+data-text-lines
+image-gif
+image-jfif
+media
+png
+xml
+zip
+
