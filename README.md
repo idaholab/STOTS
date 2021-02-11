@@ -23,10 +23,6 @@ STOTS is a collection of the following tools written in Python 3:
 
 ___
 
-STOTS was presented at BSides Idaho (https://www.bsidesidaho.org/) on October 23, 2020. A video recording         of the presentation is found below.
-
-[![STOTS Video](/images/bsides.png)](https://www.youtube.com/watch?v=_qEseoPgdec)
-
 ## Installation
 
 STOTS requires Python 3.5.3 or greater. It is recommended to install all python packages in a Python virtual environment.  You can install the dependencies required for running STOTS with either of the following two processes detailed below: Setup.py or Requirements.txt.
