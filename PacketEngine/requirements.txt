@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 idna==2.8
 lxml==4.6.3
-py==1.8.0
+py==1.10.0
 pyshark==0.4.2.9
 python-dateutil==2.8.0
 pytz==2019.2
